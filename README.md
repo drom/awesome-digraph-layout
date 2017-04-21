@@ -4,7 +4,7 @@
 
 ### C
 
-[graphviz](https://github.com/ellson/graphviz)
+ * [graphviz](https://github.com/ellson/graphviz)
 
 ![](Graphviz_Engines.png)
 
@@ -16,6 +16,6 @@
 
 ### JavaScript
 
-[dagre](https://github.com/cpettitt/dagre)
-[KlayJS](https://github.com/OpenKieler/klayjs)
+ * [dagre](https://github.com/cpettitt/dagre)
+ * [KlayJS](https://github.com/OpenKieler/klayjs)
 
