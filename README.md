@@ -17,4 +17,5 @@
 ### JavaScript
 
 [dagre](https://github.com/cpettitt/dagre)
+[KlayJS](https://github.com/OpenKieler/klayjs)
 
