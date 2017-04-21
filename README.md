@@ -1,10 +1,8 @@
 # Awesome digraph layout
 
-## JavaScript
+## Tools
 
-[dagre](https://github.com/cpettitt/dagre)
-
-## C
+### C
 
 [graphviz](https://github.com/ellson/graphviz)
 
@@ -15,3 +13,8 @@
   * twoi
   * circo
   * dotty
+
+### JavaScript
+
+[dagre](https://github.com/cpettitt/dagre)
+
