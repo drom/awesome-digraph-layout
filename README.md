@@ -1,4 +1,4 @@
-# Awesome digraph drawing
+# Awesome digraph layout
 
 ## JavaScript
 
