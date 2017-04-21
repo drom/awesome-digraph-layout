@@ -1,2 +1,3 @@
-# awesome-digraph-drawing
+# Awesome digraph drawing
+
 Awesome digraph drawing
