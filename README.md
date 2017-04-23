@@ -19,4 +19,4 @@
  * [dagre](https://github.com/cpettitt/dagre)
  * [KlayJS](https://github.com/OpenKieler/klayjs)
  * [viz.js](https://github.com/mdaines/viz.js/) GraphViz -> Emscripten -> ASM.js
-
+ * [sigma.js](https://github.com/jacomyal/sigma.js)
